@@ -13,6 +13,10 @@
       <sourceFolder url="file://$MODULE_DIR$/lab_10/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lab_11/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lab_9/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lab_12/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lab_13/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lab_14/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lab_15/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/lab_1/target" />
       <excludeFolder url="file://$MODULE_DIR$/lab_2/target" />
       <excludeFolder url="file://$MODULE_DIR$/lab_3/target" />
@@ -24,6 +28,10 @@
       <excludeFolder url="file://$MODULE_DIR$/lab_10/target" />
       <excludeFolder url="file://$MODULE_DIR$/lab_11/target" />
       <excludeFolder url="file://$MODULE_DIR$/lab_9/target" />
+      <excludeFolder url="file://$MODULE_DIR$/lab_12/target" />
+      <excludeFolder url="file://$MODULE_DIR$/lab_13/target" />
+      <excludeFolder url="file://$MODULE_DIR$/lab_14/target" />
+      <excludeFolder url="file://$MODULE_DIR$/lab_15/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
